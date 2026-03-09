@@ -16,32 +16,15 @@ Currently, I am focused on improving my skills in **cybersecurity tools, cloud n
 
 ## 🛠️ Technical Skills
 
-### Programming
-- Python
-- C++
-- HTML
-- CSS
-- JavaScript
-
-### Networking
-- Computer Networking
-- Wireless Networking
-- Cloud Networking Concepts
-
-### Cloud & Infrastructure
-- Cloud Computing Fundamentals
-- Containerization
-- Virtualization
-
-### Cybersecurity Tools
-- Wireshark
-- Nmap
-- Hydra
-- Nessus
-- CyberChef
-
-### Networking Tools
-- Cisco Packet Tracer
+| Category | Technologies |
+|---------|--------------|
+| **Operating Systems** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Programming** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Web Technologies** | ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| **Networking** | ![Computer Networking](https://img.shields.io/badge/Computer_Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white) ![Wireless Networking](https://img.shields.io/badge/Wireless_Networking-1BA0D7?style=for-the-badge&logo=wifi&logoColor=white) ![Cloud Networking](https://img.shields.io/badge/Cloud_Networking-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| **Cloud & Infrastructure** | ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=icloud&logoColor=white) ![Containerization](https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Virtualization](https://img.shields.io/badge/Virtualization-0078D6?style=for-the-badge&logo=virtualbox&logoColor=white) |
+| **Cybersecurity Tools** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=securityscorecard&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=linux&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white) ![CyberChef](https://img.shields.io/badge/CyberChef-FF6F00?style=for-the-badge&logo=hackthebox&logoColor=white) |
+| **Networking Tools** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) |
 
 ### Computer Science Fundamentals
 - Operating Systems
