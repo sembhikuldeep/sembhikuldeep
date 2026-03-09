@@ -52,7 +52,8 @@ Currently, I am focused on improving my skills in **cybersecurity tools, cloud n
 
 - Cyber Security Analyst  
 - IBM Cloud Fundamentals  
-- Python for Data Science  
+- Python for Data Science
+- Networking Basics 
 
 ---
 
