@@ -18,7 +18,7 @@ Currently, I am focused on improving my skills in **cybersecurity tools, cloud n
 
 | Category | Technologies |
 |---------|--------------|
-| **Operating Systems** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Operating Systems** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white) |
 | **Programming** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **Web Technologies** | ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
 | **Networking** | ![Computer Networking](https://img.shields.io/badge/Computer_Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white) ![Wireless Networking](https://img.shields.io/badge/Wireless_Networking-1BA0D7?style=for-the-badge&logo=wifi&logoColor=white) ![Cloud Networking](https://img.shields.io/badge/Cloud_Networking-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
