@@ -64,8 +64,9 @@ Currently, I am focused on improving my skills in **cybersecurity tools, cloud n
 🔗 LinkedIn:  
 https://www.linkedin.com/in/kuldeep-sembhi
 
-💻 GitHub:  
-https://github.com/sembhikuldeep
+📃 Resume:
+(Kuldeep_Singh_Sembhi_Resume.pdf)[View here]
+
 
 ---
 
